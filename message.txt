@@ -1,7 +1,7 @@
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
 
 <!DOCTYPE html>
-<head>
+<head> 
 <title>Post Uploaded Successfully</title>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
@@ -23,56 +23,56 @@
 	<link rel="stylesheet" type="text/css" href="css/main.css">
 <!--===============================================================================================-->
 </head>
-<body>
+<body> 
 <div class="header">
 <div class="header_wrapper">
 	<div class="wrap">
 <div class="header_top">
 <div class="logo">
-<img src="images/logo.png" alt="" />
+<img src="images/logo.png" alt="" /> 
 </div>
 <div class="social-icons">					
-		                <ul>
+		                <ul> 
 		                    <li><a class="facebook" href="#" target="_blank"> </a></li>
 		                    <li><a class="twitter" href="#" target="_blank"> </a></li>
 		                    <li><a class="googleplus" href="#" target="_blank"> </a></li>		   
 		                    <li><a class="rss" href="#" target="_blank"> </a></li>
-		                    <div class="clear"></div>
+		                    <div class="clear"></div> 
 		                </ul>
-		 		    </div>
+		 		    </div> 
        <div class="clear"></div>
 </div>
 
+</div> 
 </div>
 </div>
-</div>
-	<div class="limiter">
-		<div class="container-login100">
-			<div class="wrap-login100 p-l-50 p-r-50 p-t-77 p-b-30">
+	<div class="limiter"> 
+		<div class="container-login100"> 
+			<div class="wrap-login100 p-l-50 p-r-50 p-t-77 p-b-30"> 
 				<form class="login100-form validate-form">
-					<span class="login100-form-title p-b-55">
+					<span class="login100-form-title p-b-55"> 
                                             <%=request.getAttribute("Message")%><br>
 						<a align="center" class="txt1 bo1 hov1" href="sphome.jsp">
 							Go to Home							
 						</a>
-					</span>
+					</span> 
 
 					
 					
 					
 
 						
-					</div>
+					</div> 
 
 		</form></div></div></div>
 <div class="footer">
-	<div class="wrap">
+	<div class="wrap"> 
 		
 		<div class="copy-right">
 			<p> &copy; 2018 Wedding Day. </a></p>
 		</div>	
 		<div class="clear"></div>
-	</div>
+	</div> 
  </div>	    
 </body>
 </html>
