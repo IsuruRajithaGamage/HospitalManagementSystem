@@ -128,7 +128,7 @@
 		    </ul>
 		</div>
 		<div class="copy-right">
-			<p> &copy; 2018 Wedding Day. </a></p>
+			<p> &copy; 2020 Wedding Day. </a></p>
 		</div>	
 		<div class="clear"></div>
 	</div>
@@ -142,7 +142,7 @@
 		    </ul>
 		</div>
 		<div class="copy-right">
-			<p> &copy; 2018 Wedding Day. </a></p>
+			<p> &copy; 2020 Wedding Day. </a></p>
 		</div>	
 		<div class="clear"></div>
 	</div>
