@@ -59,7 +59,9 @@ public class loginservlet extends HttpServlet {
             Logger.getLogger(loginservlet.class.getName()).log(Level.SEVERE, null, ex);
         } catch (SQLException ex) {
             Logger.getLogger(loginservlet.class.getName()).log(Level.SEVERE, null, ex);
+        }catch(){
         } 
+        
        
     }
 
