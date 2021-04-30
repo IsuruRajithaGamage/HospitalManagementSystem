@@ -34,7 +34,7 @@
 <img src="images/logo.png" alt="" />
 </div><br><br><div>
 					<span class="login100-form-title p-b-55">
-						Welcome to the Client section
+						Welcome you to the Client section
 					&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<button><a href="login.jsp">Log out</a></button>
 					</span></div>
 
